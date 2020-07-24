@@ -7,7 +7,7 @@ LICENSE: [MIT](./license.md)
 ---
 
 ### Содержание:
-1. something
+1. [git add](./instruction.md)
 2. [git add](./add.md)
 
 ---
